@@ -2,6 +2,8 @@
 
 ### **Domain** : **Travel Industry, Property management and Tourism**
 
+### Dashboard link : [![alt tag](https://public.tableau.com/app/profile/ganthi.shree.s/viz/Airbnb_17072882670980/Dashboard1)
+
 ### **Problem Statement :**
   This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
 
